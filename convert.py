@@ -3,7 +3,7 @@
 from PIL import Image
 import os
 
-FRAME_RATE = 4
+FRAME_RATE = 60
 
 # Ensure directories exist
 if not os.path.exists("png"):
